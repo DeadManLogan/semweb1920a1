@@ -9,5 +9,6 @@
 * Όνομα αρχείου ntriples ή turtle με τα δεδομένα RDF του ωρολογίου προγράμματος: text_out04.nt
 * Όνομα προγράμματος Python με το οποίο κατασκευάσατε τα δεδομένα σε RDF (τρία αρχεία στη συγκεκριμένη περίπτωση): textisimo (textisimo02.py, textisimo03.py, textisimo04.py)
 * Όνομα αρχείου ntriples ή turtle με το λεξιλόγιο RDFS για το ωρολόγιο πρόγραμμα: voc.nt
+* Όνομα τελικού προγράμματος Python για την εύρεση συμπρωταγωνιστών μέσω ερωτημάτων SPARQL: costar-movies-query.py
 
 
